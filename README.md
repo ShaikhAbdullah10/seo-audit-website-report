@@ -1,9 +1,9 @@
 # seo-audit-website-report
 SEO audit report of a live website using Ubersuggest and PageSpeed
-# SEO Audit Project – Nike.com (Sample)
+# SEO Audit Project – ZOMATO
 
 ## Overview
-This is a website audit project conducted using [Ubersuggest](https://ubersuggest.com) on Nike’s Indian website. The goal was to identify SEO issues, keyword performance, and page speed insights to provide improvement recommendations.
+This is a website audit project conducted using [Ubersuggest](https://ubersuggest.com) on Zomato's Indian website. The goal was to identify SEO issues, keyword performance, and page speed insights to provide improvement recommendations.
 
 ## Tools Used
 - Ubersuggest (Free SEO Tool)
